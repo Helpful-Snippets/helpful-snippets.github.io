@@ -5,8 +5,6 @@ date:   2014-03-27 10:29:39
 categories: bash
 ---
 
-#Copy example.com IP to clickboard - Bash
-
 The best thing about computers is that they do things for you. As a web developer at a company with over 200 clients, there are just some things that I do about 200 times a day. One of them is opening up iTerm2, and running *ping* or *nslookup* to retreive the IP of a given hostname. Here is what I don't like about doing that:
 
 ###Ping Takes way too long
