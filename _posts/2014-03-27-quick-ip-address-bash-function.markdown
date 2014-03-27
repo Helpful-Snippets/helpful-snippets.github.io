@@ -28,4 +28,4 @@ That is all their is to it.
 
 Grab the [Gist][theGist] and feel free to fork it or fork this post.
 
-[jekyll]:    https://gist.github.com/connormckelvey/9791993
+[theGist]:    https://gist.github.com/connormckelvey/9791993
