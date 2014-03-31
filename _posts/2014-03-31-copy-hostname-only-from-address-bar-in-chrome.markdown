@@ -10,7 +10,7 @@ I use Chrome pretty much exclusively. There are very few things that I do not li
 At work I rely heavily on the domain/hostnames of our 200+. I frequently FTP into their server to make minor changes, or add thier FTP credentials into basecamp for another developer. For this reason, I find it so frusterating that Chrome does not provide an option similar to Firefox that would allow users to force the http:// and trailing slash to show.
 
 ##Why make it show?
-I want to to show so that I can actually spcify the text that I want to highlight and copy for use in an FTP client, iTerm2 or Basecamp. Before I wrote bookmarklet below this was my process:
+I want to show so that I can actually specify the text that I want to highlight and copy for use in an FTP client, iTerm2 or Basecamp. Before I wrote bookmarklet below this was my process:
 
  1.  Click in address bar
  2.  Command + a (to select at)
@@ -22,7 +22,7 @@ I want to to show so that I can actually spcify the text that I want to highligh
  8.  Command + w (To close the new tab, if I even remembered)
  9.  Use the text on my clipboard as soon as possible before I overwrite it with something.
 
-I know that this process only takes about a second or two, but when I list out all the steps, it is kind of ridulous to have to do something like this 50+ times a day. 
+I know that this process only takes about a second or two, but when I list out all the steps, it is kind of ridiculous to have to do something like this 50+ times a day. 
 
 ##The Solution
 {% highlight javascript %}

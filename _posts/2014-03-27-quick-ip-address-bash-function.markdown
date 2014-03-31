@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Easy Bash function that copies a hostnames IP Address to your clipboard."
+title:  "Easy Bash function that copies a hostname's IP Address to your clipboard."
 date:   2014-03-27 10:29:39
 categories: bash
 ---
 
-The best thing about computers is that they do things for you. As a web developer at a company with over 200 clients, there are just some things that I do about 200 times a day. One of them is opening up iTerm2, and running *ping* or *nslookup* to retreive the IP of a given hostname. Here is what I don't like about doing that:
+The best thing about computers is that they do things for you. As a web developer at a company with over 200 clients, there are just some things that I do about 200 times a day. One of them is opening up iTerm2, and running *ping* or *nslookup* to retrieve the IP of a given hostname. Here is what I don't like about doing that:
 
-###Ping Takes way too long
-This is proabably the first way everyone learns to get the IP of a host, but it is probably the slowest. The time to resolve the hostname, send the ICMP, wait for it to return, print to the screen and then manually exit the command is just too much.
+##Ping Takes way too long
+This is probably the first way everyone learns to get the IP of a host, but it is probably the slowest. The time to resolve the hostname, send the ICMP, wait for it to return, print to the screen and then manually exit the command is just too much.
 
-###If I want NSLookup, I'll use NSLookup
-Nslookup is a great utility and I use it when I need  a little bit more information. But when All i need is the IP of a hostname, there is just too much to look at, even when you know what you are looking for.
+##If I want NSLookup, I'll use NSLookup
+Nslookup is a great utility and I use it when I need  a little bit more information. But when all I need is the IP of a hostname, there is just too much to look at, even when you know what you are looking for.
 
 ##The Solution
 Below is a simple bash function that you can add to your .bash_profile in Mac OSX, I haven't tested this in ANY distributions of Linux, yet.
