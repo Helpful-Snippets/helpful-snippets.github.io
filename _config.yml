@@ -1,3 +1,10 @@
 name: Helpful Snippets
+description: Javascript and Bash Snippets for Web Developers
 markdown: redcarpet
 pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'http://www.helpfulsnippets.com'
+author:         'Connor McKelvey'
