@@ -40,9 +40,6 @@ My process has now been reduced to:
  3.  Enter (To close the prompt)
  4.  Go on with my day
 
-
-
-
 ##The Bookmarklet
 
 <a style="cursor: move; text-decoration: none; text-shadow: 0px 2px 2px rgba(0, 0, 0, .5); display: block; width: 200px; height: 50px; border-radius: 5px; background-color: #3B5998; text-align: center; line-height: 50px; font-size: 20px; font-family: Verdana, sans; color: #FFF; " href="javascript:void(function(){var u = window.location.hostname.replace(/^www\./,''); window.prompt('Copy URL to Clipboard CMD/CTRL + C',u); }());" onclick="alert('Drag me to the bookmarks bar'); return false;">Copy Hostname</a>
