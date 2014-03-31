@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Javascript bookmarketlet that presents a native prompt with the hostname"
+title:  "Javascript bookmarklet that presents a native prompt with the hostname"
 date:   2014-03-27 10:29:39
 categories: bash
 ---
