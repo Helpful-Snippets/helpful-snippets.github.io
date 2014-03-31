@@ -22,7 +22,7 @@ function tip(){
 }
 {% endhighlight %}
 
-That is all their is to it.
+That is all there is to it.
 
 Grab the [Gist][theGist] and feel free to fork it or fork this post.
 
