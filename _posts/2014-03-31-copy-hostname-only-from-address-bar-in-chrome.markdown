@@ -25,7 +25,6 @@ I want to to show so that I can actually spcify the text that I want to highligh
 I know that this process only takes about a second or two, but when I list out all the steps, it is kind of ridulous to have to do something like this 50+ times a day. 
 
 ##The Solution
-
 {% highlight javascript %}
 	javascript:void(
 	  function(){var u = window.location.hostname.replace(/^www\./,'');
@@ -41,8 +40,10 @@ My process has now been reduced to:
  3.  Enter (To close the prompt)
  4.  Go on with my day
 
+
 ##The Bookmarklet
-<center><strong style="font-family: Verdana, sans;">Drag the button to your bookmarks bar</strong></center><a style="cursor: move; margin: 50px auto 0 auto; text-decoration: none; text-shadow: 0px 2px 2px rgba(0, 0, 0, .5); display: block; width: 200px; height: 50px; border-radius: 5px; background-color: #3B5998; text-align: center; line-height: 50px; font-size: 20px; font-family: Verdana, sans; color: #FFF; " href="javascript:void(function(){var u = window.location.hostname.replace(/^www\./,''); window.prompt('Copy URL to Clipboard CMD/CTRL + C',u); }());" onclick="alert('Drag me to the bookmarks bar'); return false;">Copy Hostname</a>
+
+<a style="cursor: move; text-decoration: none; text-shadow: 0px 2px 2px rgba(0, 0, 0, .5); display: block; width: 200px; height: 50px; border-radius: 5px; background-color: #3B5998; text-align: center; line-height: 50px; font-size: 20px; font-family: Verdana, sans; color: #FFF; " href="javascript:void(function(){var u = window.location.hostname.replace(/^www\./,''); window.prompt('Copy URL to Clipboard CMD/CTRL + C',u); }());" onclick="alert('Drag me to the bookmarks bar'); return false;">Copy Hostname</a>
 
 Grab the [Gist][theGist] and feel free to fork it or fork this post.
 
