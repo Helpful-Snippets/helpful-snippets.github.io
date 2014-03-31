@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Javascript bookmarklet that presents a native prompt with the hostname"
-date:   2014-03-27 10:29:39
-categories: bash
+date:   2014-03-31 10:29:39
+categories: javascript
 ---
 
 I use Chrome pretty much exclusively. There are very few things that I do not like about and I am usually very weary about overloading it with plugins to get it to do things that I want. The one thing that I despise, is the fact that they hide the http:// and trailing slash for hostnames. What is even worse is that they do not have an option to force it to show like Firefox does. 
