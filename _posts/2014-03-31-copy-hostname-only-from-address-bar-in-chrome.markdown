@@ -11,6 +11,7 @@ At work I rely heavily on the domain/hostnames of our 200+. I frequently FTP int
 
 ##Why make it show?
 I want to to show so that I can actually spcify the text that I want to highlight and copy for use in an FTP client, iTerm2 or Basecamp. Before I wrote bookmarklet below this was my process:
+
  1.  Click in address bar
  2.  Command + a (to select at)
  3.  Command + c (to copy)
@@ -34,6 +35,7 @@ I know that this process only takes about a second or two, but when I list out a
 {% endhighlight %}
 
 My process has now been reduced to:
+
  1.  Click on bookmarklet
  2.  Command + C
  3.  Enter (To close the prompt)
