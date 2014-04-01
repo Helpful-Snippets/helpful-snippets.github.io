@@ -8,6 +8,3 @@ paginate: 15
 # Details for the RSS feed generator
 url:            'http://www.helpfulsnippets.com'
 author:         'Connor McKelvey'
-
-gems:
-- jekyll-rss
