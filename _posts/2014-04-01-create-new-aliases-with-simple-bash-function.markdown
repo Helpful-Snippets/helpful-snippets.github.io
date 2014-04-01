@@ -15,14 +15,14 @@ I created a bash function that adds the alias to my .aliases file and then reloa
 {% highlight bash %}
 function newalias() {
 	echo alias $1=\"$2\" >> ~/.aliases
-	source ~/.bash\_profile
+	source ~/.bash_profile
 }
 {% endhighlight %}
 
 I store this function in my .functions file next to my .aliases file to keep things clean. After adding it to your .functions file or .bash\_profile reload it by typing the following into your terminal emulator. 
 
 {% highlight bash %}
-source ~/.bash\_profile
+source ~/.bash_profile
 {% endhighlight bash %}
 
 You can then add an alias by running the following command
