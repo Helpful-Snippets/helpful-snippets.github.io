@@ -14,7 +14,7 @@ This is probably the first way everyone learns to get the IP of a host, but it i
 Nslookup is a great utility and I use it when I need  a little bit more information. But when all I need is the IP of a hostname, there is just too much to look at, even when you know what you are looking for.
 
 ##The Solution
-Below is a simple bash function that you can add to your .bash_profile in Mac OSX, I haven't tested this in ANY distributions of Linux, yet.
+Below is a simple bash function that you can add to your .bash\_profile in Mac OSX, I haven't tested this in ANY distributions of Linux, yet.
 
 {% highlight bash %}
 function tip(){
