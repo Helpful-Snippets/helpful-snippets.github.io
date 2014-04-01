@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me 
+title: About The Blog 
 ---
 
 My name is Connor McKelvey and I am a Front-end developer based out of Orlando, Florida. I currently work as the Web Project Manager at the [Storage Group](http://storageinternetmarketing.com) and I spend most of my free time working side projects with my friends and business partners. When I am not working or work-playing, I try to find time to play guitar, write songs, watch Walking Dead or a variety of other show.
