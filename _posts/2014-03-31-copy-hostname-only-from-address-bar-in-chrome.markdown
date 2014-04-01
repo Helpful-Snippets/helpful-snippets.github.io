@@ -13,13 +13,13 @@ At work I rely heavily on the domain/hostnames of our 200+. I frequently FTP int
 I want to show so that I can actually specify the text that I want to highlight and copy for use in an FTP client, iTerm2 or Basecamp. Before I wrote bookmarklet below this was my process:
 
  1.  Click in address bar
- 2.  Command + a (to select at)
+ 2.  Command + a (to select all)
  3.  Command + c (to copy)
  4.  Command + t (for a new tab)
  5.  Command + v (to paste) 
  6.  Manually select the text I needed to copy the hostname
  7.  Command + c
- 8.  Command + w (To close the new tab, if I even remembered)
+ 8.  Command + w (To close the new tab, if I even remember)
  9.  Use the text on my clipboard as soon as possible before I overwrite it with something.
 
 I know that this process only takes about a second or two, but when I list out all the steps, it is kind of ridiculous to have to do something like this 50+ times a day. 
