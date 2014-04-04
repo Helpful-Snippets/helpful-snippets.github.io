@@ -11,9 +11,7 @@ Everyone organizes their projects in a different way. So this helpful snippet ma
 At work we host and maintain over 200 of our clients websites, so I am forced to cleanly organize the files that reside on my computer in order to stay sane. My directory structure looks something like this:
 
 {% highlight bash %}
-function newalias() {
 	~/Dropbox/Sites/Current Employer/
-}
 {% endhighlight %}
 
 Within my current employer directory I have 200+ directories using the client's domain name as the directory name and each has its own git repository. 
