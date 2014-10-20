@@ -6,6 +6,6 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'http://www.helpfulsnippets.com'
-baseurl:  url
-author:         'Connor McKelvey'
+url: 'http://www.helpfulsnippets.com'
+baseurl: url
+author: 'Connor McKelvey'
